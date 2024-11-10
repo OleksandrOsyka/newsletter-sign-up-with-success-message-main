@@ -4,5 +4,3 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 
 
-- Solution URL: [Add solution URL here](https://github.com/OleksandrOsyka/newsletter-sign-up-with-success-message-main)
-
